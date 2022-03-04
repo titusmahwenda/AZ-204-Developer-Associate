@@ -101,3 +101,28 @@
   - Azure Logic Apps: LAB
   - Azure Notification Hubs: LAB
 
+## Microsoft Learn Modules and Labs
+### Module One
+- Create Azure App Service web apps
+### Module Two
+- Implement Azure Functions
+### Module Three
+- Develop Solutions that use Blob Storage
+### Module Four
+- Develop Solutions that use Azure CosmosDB
+### Module Five
+- Implement Infrastructure as a Service Solutions
+### Module Six
+- Implement user Authentication and Authorisation
+### Module Seven
+- Implement secure cloud solutions
+### Module Eight
+- Implement API Management
+### Module Nine
+- Develop event based solutions
+### Module Ten
+- Develop message based solutions
+### Module Eleven
+- Instrument Solutions to support Monitoring and Logging
+### Module Twelve
+- Integrate caching and content delivery within Solutions
