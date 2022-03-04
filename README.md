@@ -104,25 +104,56 @@
 ## Microsoft Learn Modules and Labs
 ### Module One
 - Create Azure App Service web apps
+  - Explore Azure App Service
+  - Configure web app settings
+  - Scale apps in Azure App Service
+  - Explore Azure App Service deployments slots 
 ### Module Two
 - Implement Azure Functions
+  - Explore Azure Functions
+  - Deploy Azure Functions
+  - Implement Durable Functions 
 ### Module Three
 - Develop Solutions that use Blob Storage
+  - Explore Azure Blob Storage
+  - Manage the Azure Blob Storage lifecycle
+  - Work with Azure Blob Storage
 ### Module Four
 - Develop Solutions that use Azure CosmosDB
+  - Explore Azure CosmosDB
+  - Implement Azure Partitioning in Azure CosmosDB
+  - Work with Azure CosmosDB 
 ### Module Five
 - Implement Infrastructure as a Service Solutions
+  - Provision Virtual Machines in Azure
+  - Create and Deploy Azure Resource Manager Templates
+  - Manage Container Images in Azure Container Registry
+  - Run Container Images in Azure Container Instances
 ### Module Six
 - Implement user Authentication and Authorisation
+  - Explore the Microsoft Identity Platform
+  - Implement authentication by using the Microsoft Authentication Library
+  - Implement shared Access Signatures
+  - Explore Microsoft Graph
 ### Module Seven
 - Implement secure cloud solutions
+  - Implement Azure Key Vault
+  - Implement Managed Identities
+  - Implement Azure App Configuration 
 ### Module Eight
 - Implement API Management
+  - Explore API Management 
 ### Module Nine
 - Develop event based solutions
+  - Explore Azure Even Grid
+  - Explore Azure Event Hubs 
 ### Module Ten
 - Develop message based solutions
+  - Discover Azure Message Queues 
 ### Module Eleven
 - Instrument Solutions to support Monitoring and Logging
+  - Monitor App Performance 
 ### Module Twelve
 - Integrate caching and content delivery within Solutions
+  - Develop for Azure Cache for REDIS
+  - Develop for Storage on CDNs 
