@@ -1,0 +1,18 @@
+#The following are steps required for provisioning a web server using azure virtual machine.
+- Select a subscription
+- Choose a resource group
+- Name your virtual machine
+- Choose a region
+- Select an Availability Option
+- Choose an image
+- Select Virtual Size
+- Configure Administrator Account
+- Configure Inbound port rules
+- Select OS disk type
+- Disable boot diagnostics
+- Name tag and value
+- Review and Create your virtual machine
+- Connect into your VM using RDP connection
+- Install web server features using powershell cli
+- Test your connection using your public IP address
+- Configure web server files located at "C: /inetpub/wwwroot/" in Windows 2019 DataCenter G2 Server
